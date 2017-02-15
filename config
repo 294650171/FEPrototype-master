@@ -16,7 +16,7 @@ var config = {
     //   stringifyObjects:true,
     typeCast: 'false'
   }}
-  // 其他配置项...
+  // 其他配置项....
 };
 module.exports = config;
 
